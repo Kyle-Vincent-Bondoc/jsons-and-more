@@ -1,0 +1,27 @@
+{
+  "regions": [{
+    "name": "kanto",
+    "pokemon": [{
+      "name": "charmander",
+      "pokedexNo": 1,
+      "types": ["fire"],
+      "evolvesTo": 2,
+      "evolveLevel": 16,
+      "title": "Lizard",
+      "hp": 39,
+      "attack": 52,
+      "defence": 43,
+      "spAtk": 60,
+      "spDef": 50,
+      "speed": 65,
+      "moves": [{
+        "name": "Growl",
+        "types": ["normal"],
+        "cat": "status",
+        "power": null,
+        "acc": 100
+      }]
+    }],
+    "desc": "The kanto region is where the show's protagonist, Ash, starts his journey in Pallet Town."
+  }]
+}
