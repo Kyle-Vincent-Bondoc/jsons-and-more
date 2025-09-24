@@ -1,0 +1,29 @@
+{
+  "types": [{
+    "id": 0,
+    "name": "Alkali Metals",
+    "desc": "These elements are very reactive metals wth 1 valence electron.",
+    "elements": [{
+      "name": "Hydrogen",
+      "symbol": "H",
+      "protons": 1,
+      "neutronRange": [0, 2],
+      "electronRange": [0, 0],
+      "desc": "Is a component of water, essential for life.",
+      "atomicNumber": 1
+    }]
+  }, {
+    "id": 1,
+    "name": "Alkaline Earth Metals",
+    "desc": "These are reactive metals with 2 valence electrons.",
+    "elements": [{
+      "name": "Calcium",
+      "symbol": "Ca",
+      "protons": 20,
+      "neutronRange": [14, 27],
+      "electronRange": [18, 20],
+      "desc": "A mineral that helps in Bone Growth and Development.",
+      "atomicNumber": 20
+    }]
+  }]
+}
