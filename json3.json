@@ -1,0 +1,33 @@
+{
+  "solidMaterials": [
+    {
+      "name": "Iron",
+      "density": 7.874,
+      "meltingTemp": 1811,
+      "meltsInto": "Molten Iron"
+    },
+    {
+      "name": "Copper",
+      "density": 8.96,
+      "meltingTemp": 1358,
+      "meltsInto": "Molten Copper"
+    }
+  ],
+  "liquidMaterials": [
+    {
+      "name": "Molten Iron",
+      "density": 6.98
+    },
+    {
+      "name": "Molten Copper",
+      "density": 8.02
+    }
+  ],
+  "gaseousMaterials": [
+    {
+      "name": "Oxygen"
+      "density": 1.429*10e-3,
+      "affectsGlobalWarming": false
+    }
+  ]
+}
